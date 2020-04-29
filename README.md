@@ -3,3 +3,5 @@
 ```bash
 $ npm init ice ice-app @icedesign/ice-antd-scaffold
 ```
+
+![](/screenshot.png)
