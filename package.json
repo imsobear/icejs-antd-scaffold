@@ -1,6 +1,6 @@
 {
   "name": "@icedesign/ice-antd-scaffold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "icejs & antd",
   "files": [
     "build/",
