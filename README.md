@@ -1,14 +1,5 @@
-# 前后端一体化应用
-
-> By icejs and midway-faas.
-
-## 快速开始
+# icejs + antd
 
 ```bash
-$ tnpm i
-$ npm start
+$ npm init ice ice-app
 ```
-
-## 更多
-
-文档：https://yuque.antfin-inc.com/ice/rdy99p/ds1xv0
