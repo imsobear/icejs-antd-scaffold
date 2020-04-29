@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "icejs & antd",
   "files": [
+    "build/",
     "src/",
     "public/",
     "tests/",
